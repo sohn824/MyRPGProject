@@ -20,7 +20,7 @@ UserSettings/
 *.user
 *.userprefs
 
-# Spine Runtime (직접 설치 필요)
+# Spine Runtime (직접 설치 필요 - https://en.esotericsoftware.com/spine-unity-download)
 Assets/spine-csharp/
 Assets/spine-unity/
 Assets/Spine/
