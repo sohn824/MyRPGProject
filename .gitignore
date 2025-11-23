@@ -6,8 +6,6 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 [Rr]ecordings/
-Assets/Spine
-Assets/Spine Examples
 Assets/Art/2DGameKit
 Assets/Art/2DGameKit.meta
 Assets/Art/FantaziaCharacterEditor
@@ -21,6 +19,12 @@ UserSettings/
 *.sln
 *.user
 *.userprefs
+
+# Spine Runtime (직접 설치 필요)
+Assets/spine-csharp/
+Assets/spine-unity/
+Assets/Spine/
+Assets/Spine Examples/
 
 # OS
 .DS_Store
