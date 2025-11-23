@@ -6,7 +6,12 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 [Rr]ecordings/
-
+Assets/Spine
+Assets/Spine Examples
+Assets/Art/2DGameKit
+Assets/Art/2DGameKit.meta
+Assets/Art/FantaziaCharacterEditor
+Assets/Art/FantaziaCharacterEditor.meta
 Assets/AssetStoreTools*
 
 # User-specific
